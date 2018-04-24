@@ -4,7 +4,7 @@ A flask app that showcases https://github.com/NThomasL/timezone_locator
 
 Installation:
 
-Clone this repo
+Clone this repo\n
 "git clone https://github.com/NThomasL/flask-timezonelocator.git"
 
 Use pip to install requirements from requirements.txt
