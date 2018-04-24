@@ -1,0 +1,2 @@
+Flask==0.12.2
+-e git://github.com/NThomasL/timezone_locator.git#egg=timezone_locator
